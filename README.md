@@ -1,4 +1,4 @@
-This is the readMe file accompanying CS2212 group 1 spell checker project.
+# Spell Checker
 
 This project was done by Fuad Ghareeb, Alishba Farhan, Yazan hunjul, Mohammed Rafic and Adam Seif.
 
